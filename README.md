@@ -1,6 +1,6 @@
 # annotations
 
-## I didn't think Arrystar annotation was great, but I included it. 
+## I didn't think the provided annotations were great, but I included them. 
 ```{r eval=FALSE}
 load("agilannotAll.rda")
 ```
